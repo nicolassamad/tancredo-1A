@@ -2,6 +2,32 @@ body {
     text-align:  center;
  background-color: rgb(58, 38, 11);
 }
+nav{
+    position: absolute;
+    top: 100px;
+    right: 50px;
+}
+nav a{
+    text-decoration: none;
+    font-size: 20px;
+    padding-left: 20px;
+    text-transform: uppercase;
+    color: rgb(245, 19, 245);
+}
+nav :hover{
+font-weight: bold;
+font-size: 22px ;
+color: 
+transition:0,5 ;
+}
+
+.logo{
+ width:   15 ;
+ border-radius: 100%
+}
+h3{
+    text-align: left;
+}
 .capa{  
         width: 98%;
 }
@@ -20,7 +46,7 @@ li{
     padding: 20px; 
 }
 .foto-beneficio{
- width: 35%;
+ width: 75%;
 }
  
  
